@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
     <channel>
-        <title>Consandstuff Blog</title>
+        <title>Cons&amp;Stuff Blog</title>
         <link>https://consandstuff.github.io/blog</link>
-        <description>Consandstuff Blog</description>
+        <description>Cons&amp;Stuff Blog</description>
         <lastBuildDate>Thu, 30 May 2019 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
